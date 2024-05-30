@@ -4,6 +4,7 @@ import Footer from "../../pages/footer";
 import '../page4/syllabus.css';
 
 
+
 const trdsyllabus =() => {
 
     // const[selectSem, setSelectSem] = useState(null);
